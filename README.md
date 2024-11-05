@@ -55,6 +55,10 @@ Excel: Open the file to explore data structure and preliminary cleaning.
 SQL Queries: Run SQL scripts to reproduce calculations and metrics for detailed analysis.
 Power BI Dashboard: Use the interactive dashboard for a comprehensive view of sales performance.
 
+## Visualization:
+![Screenshot (68)](https://github.com/user-attachments/assets/005f8469-7485-4e0d-b3b5-0acc79ed2f02)
+
+
 ## Conclusion
 This analysis combines Excel, SQL, and Power BI to transform raw sales data into valuable insights,
 supporting data-driven decisions across product, region, and time dimensions.
