@@ -23,24 +23,29 @@ Region: Sales region
 Quantity: Quantity sold
 Unit Price: Price per unit
 Revenue: Total revenue from sales
-Cleaning: Data is cleaned in Excel to ensure consistency, fill missing values, and correct data types.
-2. SQL Analysis
+
+2. Cleaning: Data is cleaned in Excel to ensure consistency, fill missing values, and correct data types
+   
+3. SQL Analysis
 Purpose: Perform data transformations and calculate metrics.
 Queries:
 Total Sales by Region: Summing revenue by region.
 Total Sales per Month: Aggregating sales by month from the order dates.
 Revenue by Region: Using SUM to total revenue for each region.
 Average Sales per Product: Using AVG to find average revenue per product.
-3. Power BI Visualization
+
+4. Power BI Visualization
 Dashboard Components:
 Sales Overview: A high-level view showing overall revenue and key metrics.
-Top-Performing Products: Bar chart visualizing best-selling products by total revenue.
+Top-Performing Products: Stacked Bar chart visualizing best-selling products by total revenue.
 Regional Sales Breakdown: Map or bar chart showing sales by region.
 Monthly Sales Trend: Line chart for monthly sales trends, highlighting seasonal patterns.
-4. Slicers and Interactive Analysis
+
+5. Slicers and Interactive Analysis
 Slicers: Enable filtering by region, product category, and date to allow for interactive analysis.
 Dynamic Insights: Users can explore data and adjust views to answer specific business questions.
 Key Insights
+
 Total Sales by Region: Regions with the highest revenue contribution, guiding resource allocation.
 Sales Trends per Month: Identified peak sales months for targeted marketing campaigns.
 Revenue by Region: A breakdown of revenue shows strong versus underperforming regions.
@@ -49,6 +54,8 @@ Usage
 Excel: Open the file to explore data structure and preliminary cleaning.
 SQL Queries: Run SQL scripts to reproduce calculations and metrics for detailed analysis.
 Power BI Dashboard: Use the interactive dashboard for a comprehensive view of sales performance.
-Conclusion
-This analysis combines Excel, SQL, and Power BI to transform raw sales data into valuable insights, supporting data-driven decisions across product, region, and time dimensions.
+
+## Conclusion
+This analysis combines Excel, SQL, and Power BI to transform raw sales data into valuable insights,
+supporting data-driven decisions across product, region, and time dimensions.
 
