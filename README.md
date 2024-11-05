@@ -55,7 +55,7 @@ Excel: Open the file to explore data structure and preliminary cleaning.
 SQL Queries: Run SQL scripts to reproduce calculations and metrics for detailed analysis.
 Power BI Dashboard: Use the interactive dashboard for a comprehensive view of sales performance.
 
-## Visualization:
+## Visualization On Power BI:
 ![Screenshot (68)](https://github.com/user-attachments/assets/005f8469-7485-4e0d-b3b5-0acc79ed2f02)
 
 
