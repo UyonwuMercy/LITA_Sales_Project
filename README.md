@@ -1,6 +1,6 @@
 # LITA_Sales_Project
 
-## Sales Data Analysis
+## Sales Data Analysis 
 
 ## Overview
 This project provides a detailed analysis of sales data to uncover trends and insights that support strategic decision-making. 
