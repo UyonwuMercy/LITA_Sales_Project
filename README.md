@@ -45,7 +45,7 @@ and average sales per product. The project demonstrates how these tools can be c
 - Slicers: Enable filtering by region, product category, and date to allow for interactive analysis.
 - Dynamic Insights: Users can explore data and adjust views to answer specific business questions.
   
-. Key Insights
+/./ Key Insights
 - Total Sales by Region: Regions with the highest revenue contribution, guiding resource allocation.
 - Sales Trends per Month: Identified peak sales months for targeted marketing campaigns.
 - Revenue by Region: A breakdown of revenue shows strong versus underperforming regions.
